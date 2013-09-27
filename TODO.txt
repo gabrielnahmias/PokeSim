@@ -1,0 +1,3 @@
+- Weedle & Pikachu images to ASCII art for input
+  into code!!
+- Add victory screen.
