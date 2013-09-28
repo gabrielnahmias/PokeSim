@@ -1,5 +1,5 @@
 #PokéSim
------------------------------------------------------------
+
 Welcome to the world of **PokéSim**. You will now find a world
 teeming with life and full of adventure. There will never be
 a dull moment here!
